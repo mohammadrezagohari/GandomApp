@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.codeLensFontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
+    "debug.console.fontFamily": "'Fira Code'",
+    "scm.inputFontFamily": "'Fira Code'",
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "markdown.preview.fontFamily": "'Fira Code', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "vsintellicode.features.apiExamples": "enabled",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "redhat.telemetry.enabled": true,
+    "xml.codeLens.enabled": true,
+    "xml.format.closingBracketNewLine": true,
+    "xml.format.joinCDATALines": true,
+    "xml.format.joinCommentLines": true,
+    "xml.format.preserveEmptyContent": true
+}

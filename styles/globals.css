@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'yekanbakh';
+  src: url('../assets/fonts/YekanBakh/YekanBakh-Hairline.woff');
+  src: url('../assets/fonts/YekanBakh/YekanBakh-Hairline.woff2');
+  font-style: normal;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'yekanbakh';
+  font-size: large;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
